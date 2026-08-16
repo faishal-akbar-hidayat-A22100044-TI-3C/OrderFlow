@@ -1,0 +1,1 @@
+Project orderflow menggunakan React.js dengan Vite, JavaScript, CSS, Recharts, Lucide React, dan Motion. Untuk versi demo, datanya saya simpan secara lokal di browser tanpa backend
